@@ -1,5 +1,5 @@
-# Talks 
-Intro into Keras and Image Processing. Tutorial prepared for talk at Demystifiying Artificial Intellgience Workshops.
+# Intro into Keras and Image Classification 
+Tutorial prepared for talk at Demystifiying Artificial Intellgience Workshops.
 
 <h4> Dependencies </h4> 
 Keras <br>
